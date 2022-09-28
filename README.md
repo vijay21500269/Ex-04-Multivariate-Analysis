@@ -69,20 +69,20 @@ sbn.heatmap(df.corr(),annot=True)
 ~~~
 # OUTPUT
 ## EDA - SuperStore.csv
-![img1]()
+![img1](https://github.com/vijay21500269/Ex-04-Multivariate-Analysis/blob/main/g1.png)
 ## Displaying information about Dataset
-![img2]()
+![img2](https://github.com/vijay21500269/Ex-04-Multivariate-Analysis/blob/main/g2.png)
 ## Checking the null values and Cleaning it
-![img3]()
+![img3](https://github.com/vijay21500269/Ex-04-Multivariate-Analysis/blob/main/g3.png)
 ## Displaying datatypes of each features
-![img4]()
+![img4](https://github.com/vijay21500269/Ex-04-Multivariate-Analysis/blob/main/g4.png)
 ## Multivariate Analysis - Scatterplot
-![img5]()
+![img5](https://github.com/vijay21500269/Ex-04-Multivariate-Analysis/blob/main/g5.png)
 ## Multivariate Analysis - Barplot
-![img6]()
-![img7]()
-![img8]()
+![img6](https://github.com/vijay21500269/Ex-04-Multivariate-Analysis/blob/main/g6.png)
+![img7](https://github.com/vijay21500269/Ex-04-Multivariate-Analysis/blob/main/g7.png)
+![img8](https://github.com/vijay21500269/Ex-04-Multivariate-Analysis/blob/main/g8.png)
 ## Correlation Coefficient Interpretation using HeatMap
-![img9]()
+![img9](https://github.com/vijay21500269/Ex-04-Multivariate-Analysis/blob/main/g9.png)
 # RESULT
 Thus the program to perform EDA on the given data set is successfully executed.
